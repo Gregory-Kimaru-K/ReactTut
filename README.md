@@ -1,5 +1,5 @@
-### ReactTut
+# ReactTut
 
-# Install Node
+## Install Node
 
 npm create vite@latest projectname
